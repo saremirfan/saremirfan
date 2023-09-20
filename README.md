@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sarem Irfan</h1>
 <h3 align="center">Aspiring Leader</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saremirfan&label=Profile%20views&color=0e75b6&style=flat" alt="saremirfan" /> </p>
-
 - 🔭 I’m currently working on **SQL and Python projects**
 
 - 🌱 I’m currently learning **about Project Management and Machine Learning**
