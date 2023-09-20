@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sirfan@bu.edu**
 
-- ⚡ Fun fact **I love bodybuilding**
+- ⚡ Fun fact **I love Weightlifting**
 
 <h3 align="left">Connect with me: https://linkedin.com/in/merasi</h3>
 
