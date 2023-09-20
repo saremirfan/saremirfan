@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SQL and Python projects**
 
-- 🌱 I’m currently learning **about Project Management and Machine Learning**
+- 🌱 I’m currently learning **about Data Analysis, Project Management, UI/UX, and Machine Learning**
 
 - 👨‍💻 My resume and projects are available at [https://sirfan5.wixsite.com/merasi](https://sirfan5.wixsite.com/merasi)
 
