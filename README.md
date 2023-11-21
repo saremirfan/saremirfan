@@ -1,4 +1,5 @@
-![MasterHead](https://rerouting.ca/wp-content/uploads/2020/12/2.png)
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQEsYLgGaNipfw/profile-displaybackgroundimage-shrink_350_1400/0/1700106508557?e=1706140800&v=beta&t=eFjK5FPqCZoTIMVa17VZbXrW7MBqx1FHGtfGxAj-f5w)
+https://rerouting.ca/wp-content/uploads/2020/12/2.png)
 <h1 align="center">Hi 👋, I'm Sarem Irfan</h1>
 <h3 align="center">Aspiring Leader</h3>
 
